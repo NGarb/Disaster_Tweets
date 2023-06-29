@@ -1,0 +1,5 @@
+outs:
+- md5: f147942c91d00d754503775341d13682
+  size: 987712
+  path: raw
+  hash: md5
